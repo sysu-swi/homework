@@ -6,4 +6,4 @@
 
 把你的作业空间的 git page 地址发给 TA 哦。 
 
-作业馈在 Issues 下！
+作业反馈在 Issues 内！
