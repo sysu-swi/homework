@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 第一次作业
 ---
 
 # 第一次作业
