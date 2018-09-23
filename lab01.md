@@ -1,10 +1,9 @@
 ---
 layout: 标题
 title: 一份解密游戏攻略
+blog:https://blog.csdn.net/weixin_42705660/article/details/82823936
 ---
 # 一份解密游戏攻略
-
-writen by 游戏体验终结者  
 
 游戏网址:[謎.Games](https://nazo.games/)
 
