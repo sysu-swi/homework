@@ -1,7 +1,7 @@
 ---
 layout: 标题
 title: 一份解密游戏攻略
-blog:https://blog.csdn.net/weixin_42705660/article/details/82823936
+blog: https://blog.csdn.net/weixin_42705660/article/details/82823936
 ---
 # 一份解密游戏攻略
 
