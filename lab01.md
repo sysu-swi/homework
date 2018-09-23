@@ -13,4 +13,6 @@ title: 请将标题写在这里
 
 用 vscode 编辑它，然后提交！
 
-这个文档将发布在 https://your-account.github.io/homework 中！
+这个文档将发布在 https://your-account.github.io/homework 中！  
+**我学会了：D** 
+
