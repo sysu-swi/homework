@@ -49,7 +49,7 @@ title: 手账入坑指南
 ### 手账具体内容
 
 #### 年计划
-![](http://ww1.sinaimg.cn/large/005G4gdegy1fvkqu7y2zgj30fo0fodh6.jpg)
+![](http://ww1.sinaimg.cn/large/005G4gdegy1fvkqu7y2zgj30fo0fodh6.jpg)  
 说到年计划，大家应该会想到类似“新年愿望的东西”。其实手帐中的年计划，就是对全年的一个总体的规划。
 
 我们可以在这一页上面写下自己在这一年中希望达成的目标。比如说：  
