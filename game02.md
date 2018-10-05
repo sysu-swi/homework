@@ -16,13 +16,13 @@
  2. Enemies ： 士兵（Soldiers）。士兵具有巡逻的能力，他们分布广泛，四处巡逻，有条不紊，生命力极强，只有死亡践踏才能消灭他们。
 ## 游戏设计
 ### Object（事物）：战士
-   Attributes（属性）：图片，位置
-   Collaborator（合作者）：精灵
-   Events & Actions（事件及行为）：移动，键盘方向键（On every tick）
+   1. Attributes（属性）：图片，位置
+   2. Collaborator（合作者）：精灵
+   3. Events & Actions（事件及行为）：移动，键盘方向键（On every tick）
                                  死亡践踏（从正上方踩到士兵），士兵被消灭
                                  神圣闪光（没从正上方，但接触到了士兵），战士闪光但士兵不被消灭
                                  死亡（战士掉落），战士被消灭
 ### Object(事物)：士兵
-   Attributes（属性）：图片，位置
-   Collaborator（合作者）：无
-   Events & Actions(事件及行为)：碰撞，反弹
+   1. Attributes（属性）：图片，位置
+   2. Collaborator（合作者）：无
+   3. Events & Actions(事件及行为)：碰撞，反弹
