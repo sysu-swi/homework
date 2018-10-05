@@ -61,4 +61,4 @@ Set position to another object ,之后在弹出来的选择框中依次选择辅
   依次完成好上面步骤之后，我们便做出了一个极为简单的平台游戏，但作为一个初入计算机大门的小白来说，其实已经相当不易。
 这个任务虽然简单，但是却为我们展现了计算机世界的冰山一角，计算机的世界如此美妙，技术成熟后我们都能在这个世界中构建自己的宏图，所以让我们一起继续努
 力学习计算机技术吧，争取早日成为计算机界的达人。
-![](https://pic.sogou.com/d?query=%C5%AC%C1%A6%B7%DC%B6%B7&mode=1&did=1#did0)
+![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%8A%AA%E5%8A%9B%E5%A5%8B%E6%96%97%E5%8A%B1%E5%BF%97%E5%9B%BE%E7%89%87&step_word=&hs=2&pn=6&spn=0&di=137285758720&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2949606889%2C2253828239&os=901891593%2C3554874684&simid=0%2C0&adpicid=0&lpn=0&ln=1554&fr=&fmq=1538729736875_R&fm=rs2&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E5%8A%AA%E5%8A%9B%E5%A5%8B%E6%96%97&objurl=http%3A%2F%2Fuploads.xuexila.com%2Fallimg%2F1612%2F861-1612141I621O3.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bx7jxtsw_z%26e3Bv54AzdH3F4tg2ywgAzdH3Fz75y574tg2AzdH3F8mmcml_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=)
