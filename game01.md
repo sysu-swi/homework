@@ -36,8 +36,6 @@ behavior。
 3. 将辅助精灵的行为附加给角色 这是核心步骤，我们需要切换到事件窗口，双击添加系统操作，并选择每一刻（Every tick），再在这个事件中添加行动，选择角色-
 Set position to another object ,之后在弹出来的选择框中依次选择辅助精灵和0即可，这样我们就成功地将辅助精灵上有的动作添加给了角色。
   ![标准图示](https://www.scirra.com/images/articles/setpositionaction.png)
-  
-  
   ![标准图示](https://www.scirra.com/images/articles/setpositionevent.png)
  ## 小结
   依次完成好上面步骤之后，我们便做出了一个极为简单的平台游戏，但作为一个初入计算机大门的小白来说，其实已经相当不易。
