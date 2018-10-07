@@ -26,3 +26,4 @@
    1. Attributes（属性）：图片，位置
    2. Collaborator（合作者）：无
    3. Events & Actions(事件及行为)：碰撞，反弹
+![效果演示](https://imgsa.baidu.com/forum/w%3D580%3B/sign=e345bab59d529822053339cbe7f17acb/5243fbf2b2119313151879c268380cd791238d6d.jpg)
