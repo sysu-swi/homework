@@ -28,7 +28,7 @@
 究，并发现解决片中悲剧的方法。在如此喧嚣的时代，机械姬的上映，无疑是具有极大意义的，因此我现在极力推荐同样对人工智能感兴趣的你观看这部精彩绝伦的影片，感
 受一份不一样的美好。
 ## 精彩图片欣赏
-![](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2608712125,3553230566&fm=173&app=25&f=JPEG?w=640&h=960&s=7400D619884642DCF4355D8E0100F0C3)
+![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D180%2C140%2C50/sign=7902da2ab5014a90816b15fdcf4a082a/3ac79f3df8dcd100ddb49db97e8b4710b9122f79.jpg)
 ![]()
 ![]()
 ![]()
