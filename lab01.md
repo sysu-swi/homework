@@ -72,7 +72,8 @@ title: 手账入坑指南
 
 作为家庭主妇：超市特价日，孩子的家长会日期，同学聚会日期，和朋友的逛街日期······
 
-翻开每月计划，就可以清楚地知道哪一天该做什么事情了。
+翻开每月计划，就可以清楚地知道哪一天该做什么事情了。   
+
 ![](http://ww1.sinaimg.cn/large/005G4gdegy1fvkqutrq1pj30fo0fognk.jpg)
 
 #### 日计划
@@ -95,6 +96,7 @@ title: 手账入坑指南
 对于减肥党来说，可以写下”每天早上吃一个苹果“，”慢跑一小时“，”每周三去健身房“，”不吃甜食“等这样的计划，督促自己。
 
 快去创造你自己的打卡计划吧！
+
 ![](http://ww1.sinaimg.cn/large/005G4gdegy1fvkr2hjgcbj30fo0brgmb.jpg)
 #### 读书/电影/购物清单
 
@@ -122,6 +124,7 @@ title: 手账入坑指南
 *如果没有那么多的空余时间，觉得手写手账过于麻烦，也可以选择手账APP来记录生活！* 
 
 [选择适合你的手账APP]  <https://www.zhihu.com/question/45330372/answer/306785809?utm_source=qq&utm_medium=social&utm_oi=735793294595887104>
+
 ![](http://ww1.sinaimg.cn/large/005G4gdegy1fvkrbb9p7dj30ju0exaea.jpg)
 ## 5.彩蛋
 最后给大家安利一些手账博主，大家可以从中得到很多手账干货,大家一起写手账一起享受生活！
