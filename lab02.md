@@ -16,7 +16,7 @@
 ![](https://img3.doubanio.com/view/status/m/public/55685fbcacb765e.webp)（录制后的游戏视频保存在  *快捷访问/视频/捕获*）
 2. 使用potplayer打开视频，右键→视频→视频录制→录制视频 <br>
 ![](https://img1.doubanio.com/view/status/m/public/baff9660a09238c.webp)
-打开后界面如下：
+<br> 打开后界面如下：
 <br>![截图界面](https://img1.doubanio.com/view/status/m/public/54ef7ae13cb79d8.webp)
 <br>将格式调为gif   点击开始并播放视频开始录制
 ### 减小gif的体积
