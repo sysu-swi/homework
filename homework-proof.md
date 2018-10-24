@@ -24,6 +24,14 @@ title: 使用 Letax 公式
 
 Proof:
 
-$\because$ Positional Notation $${(x)}_{k} = \sum_{i=1}^{k}d_{i}R^{i-1}$$  
+$\because$ Positional Notation $${(x)}_{2} = \sum_{i=1}^{k}d_{i}2^{i-1}$$  
+
+$\because$ Two's complement 
+
+$$N(x) = 2^{k} - x$$, where k is the number of bits for an integer
+
+and, $$N(x) = 2^{m} - x where m > k$$
+
+
 
 
