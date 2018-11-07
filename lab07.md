@@ -23,30 +23,36 @@
 ###  任务 1：简单程序
 #### 1.实验步骤
 (1)首先，在网页中输入数据
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzn9zwyayj30gp09pt8n.jpg)
+![](images\lab07\1-0.png)
 
 (2)其次，step after step，观察CPU是怎么运作的
 
 a.LOD #3 ——   输入3
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznt9h68yj30gn09o0so.jpg)
+![](images\lab07\1-1.png)
+
 
 b.STO W    —— 存到地址W
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznu43phej30gr09t0so.jpg)
+![](images\lab07\1-2.png)
+
 
 c.LOD #7    ——输入7
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznuw4z14j30go09o0so.jpg)
+![](images\lab07\1-3.png)
 
 d.STO X     ——存到地址X
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznwn3wy4j30gm09s0so.jpg)
+![](images\lab07\1-4.png)
+
 
 e.ADD W     ——加上W（X+W)
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznxp6h96j30gp09l3yg.jpg)
+![](images\lab07\1-5.png)
+
 
 f.STO Y     ——X+W的结果存到地址Y
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznze82okj30gp09q0so.jpg)
+![](images\lab07\1-6.png)
+
 
 g.HLT       ——程序结束
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzo0n2wa2j30gu09t0so.jpg)
+![](images\lab07\1-7.png)
+
 
 #### 观察并回答下面问题：
 (1)PC，IR 寄存器的作用。
@@ -116,39 +122,88 @@ int w = 3; int x = 7; int y = x + w;
 #### 1.实验步骤
 
 (1)首先，在网页中输入数据
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzq9mrk3uj30gp09mq2v.jpg)
+![](images\lab07\2-0.png)
 
 (2)其次，step after step，观察CPU是怎么运作的
 
-a.LOD X ——输入变量X
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqa8t4llj30gv09qwef.jpg)
+a.LOD X ——输入变量X(X=3)
+![](images\lab07\2-1.png)
 
-b.SUB #1 ——减去1
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqavkdfuj30go09nwef.jpg)
+b.SUB #1 ——减去1(3-1=2)
+![](images\lab07\2-2.png)
 
-c.JMZ 10 ——
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqbj17fmj30gp09rwef.jpg)
+c.JMZ 10 —— 条件跳转：如果ACC=0，则跳转到10；否则继续。此处ACC=2，则继续。
+![](images\lab07\2-3.png)
 
-d.STO X ——存储到地址X
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqcnqbzlj30gm09qt8n.jpg)
+d.STO X ——存储到地址X（X=2）
+![](images\lab07\2-4.png)
 
-e.JMP 0 ——
+e.JMP 0 —— 无条件跳转：直接跳转到0
+![](images\lab07\2-5.png)
 
-f.HLT ——程序结束
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqdc51fzj30gp09ot8n.jpg)
+f.LOD X —— 输入X
+![](images\lab07\2-6.png)
 
+g.SUB #1 —— 减去1(2-1=1)
+![](images\lab07\2-7.png)
+
+h.JMZ 10 —— 条件跳转：如果ACC=0，则跳转到10；否则继续。此处ACC=1，则继续。
+![](images\lab07\2-8.png)
+
+i.STO X ——存储到地址X（X=1）
+![](images\lab07\2-9.png)
+
+j.JMP 0 —— 无条件跳转：直接跳转到0
+![](images\lab07\2-10.png)
+
+k.LOD X —— 输入X
+![](images\lab07\2-11.png)
+
+l.SUB #1 —— 减去1(1-1=0)
+![](images\lab07\2-12.png)
+
+m.JMZ 10 —— 条件跳转：如果ACC=0，则跳转到10；否则继续。此处ACC=0，则跳转到10。
+![](images\lab07\2-13.png)
+
+n.HLT —— 程序结束
+ ![](images\lab07\2-14.png)
 #### 观察并回答下列问题
 （1） 输入程序Program 2，运行并回答问题：
 
 a.用一句话总结程序的功能
 
+从X=3不断减1，直到X=0结束。
+
 b.写出对应的 c 语言程序
+
+int x=3;   
+while (x > 0){  
+    x=x-1;  
+} 
 
 （2） 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y
 
 a.写出 c 语言的计算过程
 
+int x = 10;   
+int y = 0;  
+while (x > 0){   
+    y=y+x;  
+    x=x-1;  
+}   
+return y;  
 b.写出机器语言的计算过程
+
+LOD #10;  
+ST0 X;  
+LOD #0;  
+STO Y;
+ADD X;
+STO Y;
+SUB #1;
+JMZ 14;
+
+
 
 c.用自己的语言，简单总结高级语言与机器语言的区别与联系。
 
