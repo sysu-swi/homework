@@ -117,6 +117,7 @@ int w = 3; int x = 7; int y = x + w;
 
 (1)首先，在网页中输入数据
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzq9mrk3uj30gp09mq2v.jpg)
+
 (2)其次，step after step，观察CPU是怎么运作的
 
 a.LOD X ——输入变量X
@@ -140,6 +141,7 @@ f.HLT ——程序结束
 （1） 输入程序Program 2，运行并回答问题：
 
 a.用一句话总结程序的功能
+
 b.写出对应的 c 语言程序
 
 （2） 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y
