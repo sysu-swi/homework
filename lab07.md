@@ -29,27 +29,34 @@
 
 a.LOD #3 ——   输入3
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznt9h68yj30gn09o0so.jpg)
+
 b.STO W    —— 存到地址W
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznu43phej30gr09t0so.jpg)
+
 c.LOD #7    ——输入7
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznuw4z14j30go09o0so.jpg)
+
 d.STO X     ——存到地址X
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznwn3wy4j30gm09s0so.jpg)
+
 e.ADD W     ——加上W（X+W)
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznxp6h96j30gp09l3yg.jpg)
+
 f.STO Y     ——X+W的结果存到地址Y
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwznze82okj30gp09q0so.jpg)
+
 g.HLT       ——程序结束
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzo0n2wa2j30gu09t0so.jpg)
+
 #### 观察并回答下面问题：
 (1)PC，IR 寄存器的作用。
 
 PC: PC是专门用于在CPU取指令期间寻址程序存储器。PC总是保存着下一条要执行的指令的16位地址。 
 
-IR:1.用来存放后续指令地址 
-2.保存当前正在执行的一条指令 
-3.保存将被存储的下一个数据字节的地址 
-4.保存当前CPU所访问的主存单元的地址 
+IR:1.用来存放后续指令地址  
+2.保存当前正在执行的一条指令   
+3.保存将被存储的下一个数据字节的地址  
+4.保存当前CPU所访问的主存单元的地址   
 
 (2)ACC 寄存器的全称与作用。
 
@@ -114,16 +121,21 @@ int w = 3; int x = 7; int y = x + w;
 
 a.LOD X ——输入变量X
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqa8t4llj30gv09qwef.jpg)
+
 b.SUB #1 ——减去1
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqavkdfuj30go09nwef.jpg)
+
 c.JMZ 10 ——
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqbj17fmj30gp09rwef.jpg)
+
 d.STO X ——存储到地址X
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqcnqbzlj30gm09qt8n.jpg)
+
 e.JMP 0 ——
 
 f.HLT ——程序结束
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fwzqdc51fzj30gp09ot8n.jpg)
+
 #### 观察并回答下列问题
 （1） 输入程序Program 2，运行并回答问题：
 
