@@ -36,6 +36,8 @@ Top-down and bottom-up are both strategies of information processing and knowled
 
 为变化做好打算。不要害怕从头来过。一些尝试和细化操作是必要的。要维持透明性，简单直接地表达你的想法。
 
+### Top-down design的优缺点
+![](http://ww1.sinaimg.cn/large/007jCw9lgy1fx6q7iejosj30sf0hxtls.jpg)
 ### 以洗衣机为例
 #### 1）“正常洗衣”程序大步骤的伪代码分解
 
