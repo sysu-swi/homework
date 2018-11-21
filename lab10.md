@@ -28,6 +28,19 @@ SymPy一个用于符号型数学计算（symbolic mathematics）的Python库。�
 
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxffeqfnbkj30ct03jjra.jpg)
 
+#### 2.求积分（详见《高等数学（上册）》第
+
+
+### Numpy库简介
+NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
+
+NumPy 的前身 Numeric 最早是由 Jim Hugunin 与其它协作者共同开发，2005 年，Travis Oliphant 在 Numeric 中结合了另一个同性质的程序库 Numarray 的特色，并加入了其它扩展而开发了 NumPy。NumPy 为开放源代码并且由许多协作者共同维护开发。
+
+#### NumPy 是一个运行速度非常快的数学库，主要用于数组计算，包含：
+* 一个强大的N维数组对象 ndarray
+* 广播功能函数
+* 整合 C/C++/Fortran 代码的工具
+* 线性代数、傅里叶变换、随机数生成等功能
 ## 二、使用Python做线代题目
 
 #### 1、求矩阵的逆（详见《线性代数及其应用》第126页第一题）
