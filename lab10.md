@@ -29,7 +29,19 @@ SymPy一个用于符号型数学计算（symbolic mathematics）的Python库。�
 
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxffeqfnbkj30ct03jjra.jpg)
 
-#### 2.求积分（详见《高等数学（上册）》第
+#### 2.求积分（详见《高等数学（上册）》第143页第3题
+
+![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxfk76wxi1j311y0cpq78.jpg)
+
+- 在命令操作行输入
+  >from sympy import *
+- 要先定义x或者说给x赋值,操作如下： 
+  >x=Symbol(‘x’) 
+- 然后可以进行求积分操作,格式如下： 
+  >integrate(表达式) 
+- 具体操作见图 
+
+![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxfk9cllkmj311z04pwem.jpg)
 
 * * * 
 ### Numpy库简介
