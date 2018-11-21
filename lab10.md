@@ -41,9 +41,11 @@ SymPy一个用于符号型数学计算（symbolic mathematics）的Python库。�
   >integrate(表达式) 
 - 具体操作见图 
 
-![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxfk9cllkmj311z04pwem.jpg)
+![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxfkgrlk5pj30s004bglq.jpg)
 
 * * * 
+* * *
+
 ### Numpy库简介
 NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
 
