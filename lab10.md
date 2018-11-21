@@ -1,4 +1,5 @@
 # 用Python做数学
+* * * 
 ### Sympy库简介
 
 SymPy一个用于符号型数学计算（symbolic mathematics）的Python库。它旨在成为一个功能齐全的计算机代数系统（Computer Algebra System，CAS），同时保持代码简洁、易于理解和扩展。SymPy完全是用Python写的，并不需要外部的库。
@@ -30,7 +31,7 @@ SymPy一个用于符号型数学计算（symbolic mathematics）的Python库。�
 
 #### 2.求积分（详见《高等数学（上册）》第
 
-
+* * * 
 ### Numpy库简介
 NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
 
