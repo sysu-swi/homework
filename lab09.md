@@ -9,10 +9,11 @@ Top-down and bottom-up are both strategies of information processing and knowled
 
 ![](http://ww1.sinaimg.cn/large/007jCw9lgy1fx6prq3t9wj30tw0gnagc.jpg)
 
-####### 自顶而下： 
+
+##### 自顶而下： 
 从上往下逐步分析，找出问题的关键，分解问题，把复杂的问题分成几个小阶段来进行。
 
-####### 逐步求精： 
+##### 逐步求精： 
 一步一步仔细做，把每一步都做到最好，整体就自然好了。
 
 ### 自顶向下方法的四个主要步骤
