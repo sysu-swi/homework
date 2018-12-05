@@ -202,3 +202,7 @@ int main() {
 ```
 
 以上就是我贪吃蛇代码的主要分析，全部代码详见snake_move.c和snake_eat.c
+
+以下就是我的运行结果
+
+![](http://ww1.sinaimg.cn/large/007jCw9lgy1fxw56ztx4uj30em0c0aa2.jpg)
